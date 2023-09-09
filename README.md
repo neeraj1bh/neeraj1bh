@@ -1,5 +1,3 @@
-[![banner](./assets/banner.webp)](https://www.nb9t7.com)
-
 ### Hi there 👋
 
 #### 🚀 ABOUT
